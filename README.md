@@ -120,7 +120,7 @@
 ## 📫 &nbsp; Connect with me
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/satish-jagana/)
-[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/)
+[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/satish_jagana/)
 [![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:satishjagana123@gmail.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathishjagana123&show_icons=true&locale=en&layout=compact" alt="sathishjagana123" /></p>
