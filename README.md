@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning more about cloud-native technologies and advanced automation techniques.
 - 💞️ I’m looking to collaborate on open-source projects related to DevOps tools and practices.
 - 📫 How to reach me: satishjagana123@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've automated myself out of a job... and into a DevOps role!
 
 ## 🛠 &nbsp; Tech Stack
